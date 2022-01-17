@@ -29,7 +29,6 @@ $ pip install -r requirements.txt
 ## Directory
 필수 디렉토리는 다음과 같습니다
 ```
-[E-02]digits.ipynb
 .
 ├── E02_01_digits/
 │   ├── [E-02]digits.ipynb
